@@ -1,0 +1,31 @@
+{
+  "item": {
+    "id": "979838458237",
+    "restype": "watchface",
+    "name": "Apple地球",
+    "description": "像素级复刻\n图片随时间变化\n别管神人预览图\n系统默认AOD",
+    "preview": [
+      "f7735de78567e140fd447fd1f42097be.png"
+    ],
+    "icon": "Snipaste_2026-08-19_21-31-55.png",
+    "cover": "Snipaste_2026-08-19_23-02-55.png",
+    "author": [
+      {
+        "name": "真嗣美里帽",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "Apple 地球-V7-202607011341.bin"
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "Apple 地球-V7-202607011341.bin"
+    }
+  },
+  "ext": {}
+}
